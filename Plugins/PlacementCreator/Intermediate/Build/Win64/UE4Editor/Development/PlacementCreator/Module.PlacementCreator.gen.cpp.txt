@@ -1,0 +1,10 @@
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Development\PlacementCreator\Definitions.PlacementCreator.h
+C:/Users/danek/Documents/AstroneerModding/ModdingKit-master/Plugins/PlacementCreator/Intermediate/Build/Win64/UE4Editor/Inc/PlacementCreator/PlacementCreator.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/danek/Documents/AstroneerModding/ModdingKit-master/Plugins/PlacementCreator/Intermediate/Build/Win64/UE4Editor/Inc/PlacementCreator/ProceduralModifierFactory.gen.cpp
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Source\PlacementCreator/Public/ProceduralModifierFactory.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Inc\PlacementCreator\ProceduralModifierFactory.generated.h
+C:/Users/danek/Documents/AstroneerModding/ModdingKit-master/Plugins/PlacementCreator/Intermediate/Build/Win64/UE4Editor/Inc/PlacementCreator/ProceduralPlacementFactory.gen.cpp
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Source\PlacementCreator/Public/ProceduralPlacementFactory.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Inc\PlacementCreator\ProceduralPlacementFactory.generated.h

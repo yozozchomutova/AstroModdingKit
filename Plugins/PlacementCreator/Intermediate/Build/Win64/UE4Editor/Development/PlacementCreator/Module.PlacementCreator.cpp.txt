@@ -1,0 +1,39 @@
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Development\PlacementCreator\Definitions.PlacementCreator.h
+C:/Users/danek/Documents/AstroneerModding/ModdingKit-master/Plugins/PlacementCreator/Source/PlacementCreator/Private/PlacementCreator.cpp
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Source\PlacementCreator\Public\PlacementCreator.h
+C:/Users/danek/Documents/AstroneerModding/ModdingKit-master/Plugins/PlacementCreator/Source/PlacementCreator/Private/ProceduralModifierFactory.cpp
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Source\PlacementCreator\Public\ProceduralModifierFactory.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Inc\PlacementCreator\ProceduralModifierFactory.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\ProceduralModifier.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\PlacementApply.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\PlacementApply.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\VoxelVolumeModifier.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\VoxelVolumeModifier.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\ProceduralModifier.generated.h
+C:/Users/danek/Documents/AstroneerModding/ModdingKit-master/Plugins/PlacementCreator/Source/PlacementCreator/Private/ProceduralPlacementFactory.cpp
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Source\PlacementCreator\Public\ProceduralPlacementFactory.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Inc\PlacementCreator\ProceduralPlacementFactory.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\ProceduralPlacement.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\EPlacementImportanceMode.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\EPlacementImportanceMode.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\EPlacementPhysicsMode.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\EPlacementPhysicsMode.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\EPlacementType.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\EPlacementType.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\PlacementVariant.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\EPlacementOrientation.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\EPlacementOrientation.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\FoliageDestructionInfo.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\EFoliageDestructionBehavior.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\EFoliageDestructionBehavior.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\FoliageDestructionInfo.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Source\Terrain2\Public\ItemTypeReference.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\ItemTypeReference.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\PlacementVariant.generated.h
+C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\UE4Editor\Inc\Terrain2\ProceduralPlacement.generated.h

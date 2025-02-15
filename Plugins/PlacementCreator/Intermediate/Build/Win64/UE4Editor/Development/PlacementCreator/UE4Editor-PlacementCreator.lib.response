@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlacementCreator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Intermediate\Build\Win64\AstroEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Development\PlacementCreator\Module.PlacementCreator.cpp.obj"
+"C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Development\PlacementCreator\Module.PlacementCreator.gen.cpp.obj"
+"C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Development\PlacementCreator\Default.rc2.res"
+/OUT:"C:\Users\danek\Documents\AstroneerModding\ModdingKit-master\Plugins\PlacementCreator\Intermediate\Build\Win64\UE4Editor\Development\PlacementCreator\UE4Editor-PlacementCreator.lib"
+/INCLUDE:IMPLEMENT_MODULE_PlacementCreator

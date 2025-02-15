@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlacementCreator.cpp.obj": [
+			"PlacementCreator.cpp.obj",
+			"ProceduralModifierFactory.cpp.obj",
+			"ProceduralPlacementFactory.cpp.obj"
+		],
+		"Module.PlacementCreator.gen.cpp.obj": [
+			"PlacementCreator.init.gen.cpp.obj",
+			"ProceduralModifierFactory.gen.cpp.obj",
+			"ProceduralPlacementFactory.gen.cpp.obj"
+		]
+	}
+}
